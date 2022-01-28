@@ -1,0 +1,14 @@
+{
+    "test":{
+        "PORT":"3000" ,
+        "MONGODB_URI":"mongodb://localhost:27017/newdvTest",
+        "JWT_SECRET":"klfdsk543klfdsli,"
+
+    } ,
+    "development":{
+        "PORT":"3000" ,
+        "MONGODB_URI":"mongodb://127.0.0.1:27017/newdv",
+        "JWT_SECRET":"klf453GKdfgfdble"
+    }
+
+}
